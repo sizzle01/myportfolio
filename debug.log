@@ -1,0 +1,96 @@
+[0119/200725.276:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/001746.883:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/005541.696:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/010541.956:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/010541.957:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0120/010541.966:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/010541.966:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/011041.725:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/012541.732:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/014041.746:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/015541.754:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/021041.759:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/022541.773:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/024041.789:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/025541.849:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/031042.076:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/032542.230:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/034042.294:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/035542.437:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/041042.489:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/042542.491:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/044042.498:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/045542.524:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/051042.674:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/052542.682:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/054042.728:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/055542.731:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/061046.671:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/062546.678:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/064046.705:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/065546.758:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/071046.876:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/072546.909:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/074046.982:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/075546.989:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/081047.104:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/082547.111:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/084047.118:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/085506.489:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/085547.159:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/091047.242:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/092547.326:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/094047.378:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/095547.386:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/101047.486:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/102547.497:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/104048.348:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/105548.748:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/112756.238:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/113756.298:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/113756.298:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0120/113756.298:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/113756.298:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/114256.314:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/114633.431:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/115756.462:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/121256.493:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/122756.700:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/124256.706:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/125756.715:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/131256.726:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/132756.799:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/134259.302:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/135800.610:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/141301.084:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/142801.167:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/144301.177:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/145801.189:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/151301.195:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/152801.200:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/154301.207:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/155801.218:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/161301.248:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/162801.325:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/170458.995:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/171959.912:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/173500.201:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/175000.450:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/180500.457:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/180518.733:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/182000.573:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/183500.587:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/185000.839:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/190500.886:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0120/190554.293:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0120/190553.738:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0120/190554.695:ERROR:exception_snapshot_win.cc(99)] thread ID 13748 not found in process
+[0120/190554.710:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0120/190554.873:ERROR:process_info.cc(551)] ReadProcessData failed
+[0120/222931.377:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0121/153149.704:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0122/054738.861:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0123/064044.345:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0126/074833.080:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0127/131533.732:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0128/152448.913:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
