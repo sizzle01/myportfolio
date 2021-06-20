@@ -64,7 +64,7 @@ const Profile = () => {
         </CustomTimeline>
 
         <div className="button_container">
-          <a href="/images/tundeFEresume.pdf" download="Tunde's Resume">
+          <a href="/images/tundev1.pdf" download="Tunde's Resume">
             <CustomButton text={"Download Cv"} icon={<GetAppIcon />} />
           </a>
         </div>
