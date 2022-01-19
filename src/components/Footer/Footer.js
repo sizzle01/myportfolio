@@ -12,7 +12,7 @@ const Footer = () => {
 
       <div className="footer_right">
         <Typography className="footer_copyright">
-          Developed by{" "}
+          Developed by
           <a href="github.com/sizzle01" target="_blank">
             Tunde
           </a>

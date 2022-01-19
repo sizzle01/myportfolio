@@ -122,6 +122,20 @@ export default {
 
   projects: [
     {
+      tag: "REACT",
+      image: "/images/cardmanager.png",
+      title: "Virtual Card Management App",
+      caption: "Card Manager",
+      description: "This app is a virtual card manager",
+      links: [
+        {
+          link: "https://github.com/sizzle01/shutterscore-app",
+          icon: <GitHubIcon />,
+        },
+        { link: "https://shutterscoreapp.netlify.app/", icon: <Language /> },
+      ],
+    },
+    {
       tag: "HTML&CSS,JAVASCRIPT",
       image: "/images/exomas.png",
 
@@ -232,5 +246,6 @@ export default {
         { link: "https://applecalculator.netlify.app/", icon: <Language /> },
       ],
     },
+ 
   ],
 };
